@@ -33,6 +33,24 @@ I research offensive security and build tools that make security concepts observ
 - **Engineering** — security tooling and systems programming with Go and Rust.
 - **Defense** — translating offensive techniques into better detection, validation, and security understanding.
 
+## Organization
+
+<div align="center">
+
+### [Red Copilot](https://github.com/red-copilot)
+
+**AI Agents · Security Research · Agent Engineering**
+
+Researching and building agent harnesses and workflows for autonomous exploration and authorized security assessments.
+
+面向授权安全研究，探索 AI Agent、Harness 工程与自主任务执行，持续验证智能体在真实安全任务中的能力与边界。
+
+<a href="https://github.com/red-copilot">
+  <img src="https://img.shields.io/badge/GitHub-red--copilot-181717?style=for-the-badge&logo=github" alt="Visit Red Copilot on GitHub" />
+</a>
+
+</div>
+
 ## Selected Projects
 
 ### [VShell](https://github.com/kylinsec-ai/vshell)
