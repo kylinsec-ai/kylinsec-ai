@@ -35,30 +35,25 @@ I research offensive security and build tools that make security concepts observ
 
 ## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kylinsec-ai/vshell">VShell</a></h3>
-      <p>Reverse-engineering research into an in-the-wild C2 framework, with implementation status documented against observed behavior.</p>
-      <sub>Go · Reverse Engineering · Protocol Analysis</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kylinsec-ai/beacon-rust">Beacon Rust</a></h3>
-      <p>A Rust porting and compatibility research project focused on understanding Beacon internals, protocol behavior, and system interfaces.</p>
-      <sub>Rust · Systems Programming · Compatibility Research</sub>
-    </td>
-  </tr>
-</table>
+### [VShell](https://github.com/kylinsec-ai/vshell)
+
+Reverse-engineering research into an in-the-wild C2 framework, with implementation status documented against observed behavior.
+
+<sub>Go · Reverse Engineering · Protocol Analysis</sub>
+
+### [Beacon Rust](https://github.com/kylinsec-ai/beacon-rust)
+
+A Rust porting and compatibility research project focused on understanding Beacon internals, protocol behavior, and system interfaces.
+
+<sub>Rust · Systems Programming · Compatibility Research</sub>
 
 ## Research Areas
 
-| Area | What I explore |
-|:--|:--|
-| Offensive Security | Authorized red-team assessments and attack-path analysis |
-| Adversary Emulation | Reproducing and studying adversary behaviors |
-| Malware Research | Binary analysis, implementation details, and behavior |
-| Security Engineering | Building testable tools and reliable systems in Go / Rust |
-| Detection Engineering | Connecting offensive findings with defensive validation |
+- **Offensive Security** — authorized red-team assessments and attack-path analysis.
+- **Adversary Emulation** — reproducing and studying adversary behaviors.
+- **Malware Research** — binary analysis, implementation details, and behavior.
+- **Security Engineering** — building testable tools and reliable systems in Go / Rust.
+- **Detection Engineering** — connecting offensive findings with defensive validation.
 
 ## Principles
 
