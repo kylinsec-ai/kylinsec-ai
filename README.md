@@ -2,18 +2,15 @@
 
 # KYLINSEC
 
-**Offensive Security · Agent Engineering**  
-攻以知守 · 以研究驱动工程
+**Offensive Security · Agent Engineering**
 
-[Website](https://kylinsec-ai.github.io) · [X](https://x.com/kylinsec_) · Chengdu, China
+[Website](https://kylinsec-ai.github.io) · [X](https://x.com/kylinsec_)
 
 </div>
 
 ## About
 
-Offensive security research, adversary emulation, and security tooling in Go / Rust.
-
-专注进攻性安全、对抗研究与安全工具工程化。
+Offensive security research, adversary emulation, and security tooling in Go and Rust.
 
 ## Organization
 
