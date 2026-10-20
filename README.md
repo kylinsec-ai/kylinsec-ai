@@ -20,11 +20,9 @@ Independent research into adversary emulation, reverse engineering, and autonomo
 
 ## Selected Projects
 
-| Project | Focus | Status |
-|---|---|---|
-| [VShell](https://github.com/kylinsec-ai/vshell) | Reverse-engineering research in Go | In progress |
-| [Beacon Rust](https://github.com/kylinsec-ai/beacon-rust) | Rust porting and systems engineering | Research |
-| [RedPilot](https://github.com/kylinsec-ai/RedPilot) | Autonomous security-testing agent harness | Private |
+- **[VShell](https://github.com/kylinsec-ai/vshell)** — Reverse-engineering research in Go · *In progress*
+- **[Beacon Rust](https://github.com/kylinsec-ai/beacon-rust)** — Rust porting and systems engineering · *Research*
+- **[RedPilot](https://github.com/kylinsec-ai/RedPilot)** — Autonomous security-testing agent harness · *Private repository*
 
 ## Research
 
