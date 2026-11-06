@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://www.kyotoanimation.co.jp/img/works/key_visual/tamako.jpg" width="320" alt="Tamako Market official key visual" />
+
 # KYLINSEC
 
 ### きょうも、研究しています。
@@ -10,11 +12,11 @@
 
 [Projects](#-our-shelves) · [Research](#-research-corner) · [Red Copilot](https://github.com/red-copilot)
 
----
-
-*Welcome to our little corner of the internet.*
+*Inspired by the warmth of Usagiyama Shopping District.*
 
 </div>
+
+---
 
 ## 🏠 About the Shop
 
@@ -50,12 +52,14 @@ We believe in learning by building, and in validating ideas against evidence.
 
 The goal is simple: turn technical curiosity into reproducible experiments and useful engineering.
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 *Research · Build · Verify · Share*
 
 **Thanks for stopping by.**
+
+<sub>Visual reference: <a href="https://www.kyotoanimation.co.jp/works/tamako/">Tamako Market — Kyoto Animation</a>. Artwork © Kyoto Animation / Usagiyama Shopping District. All rights belong to their respective owners.</sub>
 
 </div>
