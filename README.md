@@ -1,24 +1,26 @@
 <div align="center">
 
-<img src="https://tamakomarket.com/img/map/still/01.jpg" width="100%" alt="Tamako Market — Usagiyama Shopping District entrance" />
+<img src="https://tamakomarket.com/img/map/still/01.jpg" width="100%" alt="Tamako Market — Usagiyama Shopping District" />
 
 <br/>
 
 # KYLINSEC
 
-**INDEPENDENT OFFENSIVE SECURITY RESEARCHER**
+### INDEPENDENT OFFENSIVE SECURITY RESEARCHER
 
 *Understanding systems. Emulating adversaries. Engineering agents.*
 
-Offensive Security · Adversary Emulation · Malware Development · AI for Security
+<br/>
+
+**OFFENSIVE SECURITY** &nbsp;·&nbsp; **ADVERSARY EMULATION** &nbsp;·&nbsp; **MALWARE DEVELOPMENT** &nbsp;·&nbsp; **AI FOR SECURITY**
 
 <sub>研究 · 探索 · 构建</sub>
 
 <br/>
 
-<img src="https://tamakomarket.com/img/map/still/02.jpg" width="32%" alt="Tamako Market official artwork" />
-<img src="https://tamakomarket.com/img/map/still/04.jpg" width="32%" alt="Tamako Market official artwork" />
-<img src="https://tamakomarket.com/img/map/still/06.jpg" width="32%" alt="Tamako Market official artwork" />
+<img src="https://tamakomarket.com/img/map/still/02.jpg" width="32%" alt="Tamako Market — official artwork" />
+<img src="https://tamakomarket.com/img/map/still/04.jpg" width="32%" alt="Tamako Market — official artwork" />
+<img src="https://tamakomarket.com/img/map/still/06.jpg" width="32%" alt="Tamako Market — official artwork" />
 
 </div>
 
@@ -26,39 +28,78 @@ Offensive Security · Adversary Emulation · Malware Development · AI for Secur
 
 ## About
 
-I'm **KYLINSEC** — an independent security researcher focused on offensive security, adversary emulation, malware development, and AI-powered security engineering.
+I'm **KYLINSEC**, an independent security researcher exploring offensive techniques, adversary behavior, malware development, and intelligent systems for security research.
 
-I'm interested in understanding offensive techniques, reproducing adversary behaviors in controlled environments, developing malware-related capabilities, and building intelligent agents that make security research more effective.
+My work is driven by curiosity about how systems behave, how adversaries operate, and how engineering can turn security research into reproducible capabilities.
 
-## Research Interests
+## Research Domains
 
-| Field | Focus |
-|:--|:--|
-| **Offensive Security** | Offensive techniques, tooling, and security research |
-| **Adversary Emulation** | Adversary TTPs, attack-chain simulation, and controlled validation |
-| **Malware Development** | Malware techniques, Windows internals, and implant development |
-| **Agent Engineering** | Agent harnesses, tool orchestration, and autonomous workflows |
-| **AI for Security** | Applying LLMs and agents to security research and offensive workflows |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Approach
+### ⌖ Offensive Security
 
-**Understand → Experiment → Validate → Build**
+Offensive techniques, tooling, tradecraft, and security research.
 
-- Start from first principles; understand how techniques work.
-- Reproduce and evaluate adversary behaviors in authorized environments.
-- Prefer measurable experiments and reproducible evidence.
-- Build agents and tools that extend research capabilities.
+</td>
+<td width="50%" valign="top">
+
+### ◈ Adversary Emulation
+
+Adversary TTPs, attack-chain simulation, and controlled validation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌘ Malware Development
+
+Malware techniques, Windows internals, and implant development.
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ Agent Engineering · AI for Security
+
+Agent harnesses, tool orchestration, and AI-assisted security workflows.
+
+</td>
+</tr>
+</table>
+
+## Research Philosophy
+
+<div align="center">
+
+### UNDERSTAND → EXPERIMENT → VALIDATE → BUILD
+
+<sub>First principles · Controlled experiments · Reproducible evidence · Practical engineering</sub>
+
+</div>
+
+- **Understand** — investigate mechanisms rather than memorize techniques.
+- **Experiment** — reproduce behaviors in authorized, controlled environments.
+- **Validate** — measure outcomes and preserve reproducible evidence.
+- **Build** — turn useful findings into tools, systems, and agent capabilities.
 
 ---
 
 <div align="center">
 
+<img src="https://tamakomarket.com/img/map/still/04.jpg" width="72%" alt="Tamako Market — Usagiyama Shopping District" />
+
+<br/>
+
 *Still curious. Still researching.*
 
 **今日も、研究しています。**
 
-<sub>Artwork: official <a href="https://tamakomarket.com/map/">Tamako Market shopping street map</a> website. © Kyoto Animation / respective rights holders. Used as fan reference; all rights belong to their owners.</sub>
+<sub>Artwork reference: <a href="https://tamakomarket.com/map/">Tamako Market official shopping street map</a>. © Kyoto Animation / respective rights holders.</sub>
 
-<sub>KYLINSEC · Independent Security Research</sub>
+<br/>
+
+<sub>KYLINSEC · INDEPENDENT SECURITY RESEARCH</sub>
 
 </div>
