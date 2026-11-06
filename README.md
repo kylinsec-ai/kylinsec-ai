@@ -1,64 +1,56 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="KYLINSEC — Independent Security Research Workshop" />
+<img src="assets/banner.svg" width="100%" alt="KYLINSEC — Independent Offensive Security Research" />
 
-<p>
-  <img src="https://tamakomarket.com/img/map/still/01.jpg" width="32%" alt="Usagiyama Shopping District entrance" />
-  <img src="https://tamakomarket.com/img/map/still/02.jpg" width="32%" alt="Shopping district storefront" />
-  <img src="https://tamakomarket.com/img/map/still/04.jpg" width="32%" alt="Rice Cake Oh! Zee shop" />
-</p>
+<br/>
 
-*An independent security research workshop.*
+**INDEPENDENT OFFENSIVE SECURITY RESEARCHER**
 
-**Offensive Security · Adversary Emulation · MalDev · Agent Engineering**
+*Understanding systems. Studying adversaries. Building agents.*
 
-[Research](#-research-corner) · [Workshop](#-workshop-notes)
+<br/>
 
-*Inspired by the warmth of Usagiyama Shopping District.*
+Offensive Security · Adversary Emulation · MalDev · Identity Security · Agent Engineering
+
+<sub>研究 · 探索 · 构建</sub>
 
 </div>
 
 ---
 
-## 🏠 About the Workshop
+## About
 
-A small independent workshop exploring how systems work, how they break, and how intelligent agents can reason about them.
+I'm **KYLINSEC** — an independent security researcher interested in how systems work, how they fail, and how adversaries operate.
 
-We focus on offensive security research, adversary behavior, low-level engineering, and practical agent systems. The goal is not to collect tools, but to understand mechanisms and turn experiments into reproducible engineering.
+My work sits at the intersection of offensive security research, adversary emulation, low-level engineering, and agent systems. I value understanding mechanisms over collecting tools, and evidence over assumptions.
 
-## 🔬 Research Corner
+## Research Interests
 
-<div align="center">
-  <img src="https://tamakomarket.com/img/map/still/06.jpg" width="48%" alt="Record shop in Usagiyama Shopping District" />
-  <img src="https://tamakomarket.com/img/map/still/05b.jpg" width="48%" alt="A scene from the shopping district" />
-</div>
-
-| Area | What we explore |
+| Field | Focus |
 |:--|:--|
-| **Offensive Security** | Attack research, tooling, and adversary emulation |
-| **MalDev & RE** | Malware development concepts, binary analysis, and OS internals |
+| **Offensive Security** | Attack techniques, tradecraft, and security research |
+| **Adversary Emulation** | TTPs, operational behaviors, and detection-aware testing |
+| **MalDev & RE** | Windows internals, payload development concepts, and reverse engineering |
 | **Identity Security** | Authentication, authorization, and identity attack paths |
-| **Agent Engineering** | Harness architecture, tool orchestration, and evaluation |
+| **Agent Engineering** | Harness design, tool orchestration, and autonomous workflows |
 
-## 🛠 Workshop Notes
+## Approach
 
-We believe in learning by building, and validating ideas against evidence.
+**Understand → Experiment → Validate → Build**
 
-**Research → Experiment → Verify → Engineer**
-
-- Prefer first-principles understanding over cargo-culted tooling.
-- Keep experiments measurable and reproducible.
-- Build small systems that expose their behavior.
-- Share useful findings when they can help others learn.
+- Start from first principles; question abstractions.
+- Study both the mechanism and its operational consequences.
+- Prefer controlled, authorized experiments and reproducible evidence.
+- Build tools and agents when they make research more effective.
 
 ---
 
 <div align="center">
 
-*Research · Build · Verify · Share*
+*Still curious. Still researching.*
 
-**Thanks for stopping by.**
+**今日も、研究しています。**
 
-<sub>Series imagery from the <a href="https://tamakomarket.com/map/">official Tamako Market website</a>, © Kyoto Animation / respective rights holders. Used as fan reference; all rights belong to their owners. The KYLINSEC banner is original artwork.</sub>
+<sub>KYLINSEC · Independent Security Research</sub>
 
 </div>
