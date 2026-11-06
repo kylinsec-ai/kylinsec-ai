@@ -2,8 +2,8 @@
 
 # KYLINSEC
 
-**INDEPENDENT SECURITY RESEARCHER**<br/>
-独立系セキュリティ研究者
+**OFFENSIVE SECURITY RESEARCHER**<br/>
+オフェンシブセキュリティ研究者
 
 *Understanding systems. Emulating adversaries. Advancing security.*
 
@@ -17,13 +17,13 @@
 
 ## About <sub>私について</sub>
 
-I'm **KYLINSEC** — an independent security researcher working across offensive techniques, adversary behavior, malware development, and the application of AI to security research.
+I'm **KYLINSEC** — an offensive security researcher working across adversary behavior, malware development, and the application of AI to security research.
 
 The work is driven by curiosity: how systems are built, how adversaries operate, and how new technology can make research and validation measurably better.
 
 **All research is conducted in authorized, controlled environments.**
 
-> KYLINSEC です。攻撃技術、攻撃者の振る舞い、マルウェア開発、そしてセキュリティ研究への AI の応用を、横断的に探求しています。
+> KYLINSEC です。オフェンシブセキュリティ研究者として、攻撃技術、攻撃者の振る舞い、マルウェア開発、そしてセキュリティ研究への AI の応用を、横断的に探求しています。
 >
 > 動機は好奇心です。システムがどう作られているのか、攻撃者がどう動くのか、新しい技術が研究と検証をどう変えるのか。
 >
@@ -118,6 +118,6 @@ AI applications in security research, offensive workflows, and validation.
 
 <br/>
 
-<sub>KYLINSEC · INDEPENDENT SECURITY RESEARCH</sub>
+<sub>KYLINSEC · OFFENSIVE SECURITY RESEARCH</sub>
 
 </div>
