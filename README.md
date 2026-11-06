@@ -2,42 +2,60 @@
 
 # KYLINSEC
 
-**Offensive Security Research · Agent Engineering**
+### きょうも、研究しています。
 
-Independent research into adversary emulation, reverse engineering, and autonomous security systems.
+*An independent security research workshop.*
 
-[Projects](#selected-projects) · [Research](#research-focus) · [Red Copilot](https://github.com/red-copilot)
+**Offensive Security · Adversary Emulation · Agent Engineering**
+
+[Projects](#-our-shelves) · [Research](#-research-corner) · [Red Copilot](https://github.com/red-copilot)
+
+---
+
+*Welcome to our little corner of the internet.*
 
 </div>
 
----
+## 🏠 About the Shop
 
-## Research Focus
+A small independent workshop exploring how systems work, how they break, and how intelligent agents can reason about them.
 
-- **Offensive Security** — adversary emulation and security tooling
-- **Reverse Engineering** — binary analysis, protocol research, implementation verification
-- **Agent Engineering** — harnesses, autonomous exploration, evaluation and observability
+Our work sits at the intersection of offensive security, adversary behavior, reverse engineering, and autonomous security systems.
 
-## Selected Projects
+## 🧺 Our Shelves
 
-- **[VShell](https://github.com/kylinsec-ai/vshell)** — Reverse-engineering research in Go · *In progress*
-- **[Beacon Rust](https://github.com/kylinsec-ai/beacon-rust)** — Rust porting and systems engineering · *Research*
-- **[RedPilot](https://github.com/kylinsec-ai/RedPilot)** — Autonomous security-testing agent harness · *Private repository*
+A few things we're building and exploring.
 
-## Research
+| Project | Description |
+|:--|:--|
+| [VShell](https://github.com/kylinsec-ai/vshell) | Reverse-engineering research and systems engineering in Go |
+| [Beacon Rust](https://github.com/kylinsec-ai/beacon-rust) | Rust implementation and low-level systems research |
+| [Red Copilot](https://github.com/red-copilot) | Research into AI agents, security assessment, and agent harnesses |
 
-I focus on understanding how systems behave, validating hypotheses against evidence, and turning findings into reproducible engineering artifacts.
+## 🔬 Research Corner
 
-## Organization
+Things that keep us curious.
 
-**[Red Copilot](https://github.com/red-copilot)**
+- **Offensive Security** — attack research, tooling, and adversary emulation
+- **MalDev** — malware development, operating-system internals, and low-level mechanisms
+- **Identity Security** — authentication, authorization, and identity attack paths
+- **Reverse Engineering** — binary analysis, protocol research, and implementation behavior
+- **Agent Engineering** — harness architecture, autonomous exploration, and evaluation
 
-Research and engineering around AI agents, security assessment, and agent harness design.
+## 🛠 Workshop
 
----
+We believe in learning by building, and in validating ideas against evidence.
+
+**Research → Experiment → Verify → Engineer**
+
+The goal is simple: turn technical curiosity into reproducible experiments and useful engineering.
 
 <div align="center">
 
+---
+
 *Research · Build · Verify · Share*
+
+**Thanks for stopping by.**
 
 </div>
