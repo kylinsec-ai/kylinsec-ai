@@ -12,7 +12,7 @@
 
 **Offensive Security · Adversary Emulation · MalDev · Agent Engineering**
 
-[Projects](#-our-shelves) · [Research](#-research-corner) · [Red Copilot](https://github.com/red-copilot)
+[Research](#-research-corner) · [Workshop](#-workshop-notes)
 
 *Inspired by the warmth of Usagiyama Shopping District.*
 
@@ -25,17 +25,6 @@
 A small independent workshop exploring how systems work, how they break, and how intelligent agents can reason about them.
 
 We focus on offensive security research, adversary behavior, low-level engineering, and practical agent systems. The goal is not to collect tools, but to understand mechanisms and turn experiments into reproducible engineering.
-
-## 🧺 Our Shelves
-
-A few things we're building and exploring.
-
-| Project | Focus |
-|:--|:--|
-| [VShell](https://github.com/kylinsec-ai/vshell) | Go-based reverse-engineering research and systems engineering |
-| [Beacon Rust](https://github.com/kylinsec-ai/beacon-rust) | Rust implementation study and low-level systems research |
-| [EdgeOne](https://github.com/kylinsec-ai/EdgeOne) | Modular network infrastructure experiments with WireGuard and WARP |
-| [Red Copilot](https://github.com/red-copilot) | Agent harnesses and AI-assisted security assessment |
 
 ## 🔬 Research Corner
 
