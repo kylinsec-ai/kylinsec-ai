@@ -6,11 +6,11 @@
 
 **INDEPENDENT OFFENSIVE SECURITY RESEARCHER**
 
-*Understanding systems. Studying adversaries. Building agents.*
+*Understanding systems. Emulating adversaries. Engineering agents.*
 
 <br/>
 
-Offensive Security · Adversary Emulation · MalDev · Identity Security · Agent Engineering
+Offensive Security · Adversary Emulation · Malware Development · AI for Security
 
 <sub>研究 · 探索 · 构建</sub>
 
@@ -20,28 +20,28 @@ Offensive Security · Adversary Emulation · MalDev · Identity Security · Agen
 
 ## About
 
-I'm **KYLINSEC** — an independent security researcher interested in how systems work, how they fail, and how adversaries operate.
+I'm **KYLINSEC** — an independent security researcher focused on offensive security, adversary emulation, malware development, and AI-powered security engineering.
 
-My work sits at the intersection of offensive security research, adversary emulation, low-level engineering, and agent systems. I value understanding mechanisms over collecting tools, and evidence over assumptions.
+I'm interested in understanding offensive techniques, reproducing adversary behaviors in controlled environments, developing malware-related capabilities, and building intelligent agents that make security research more effective.
 
 ## Research Interests
 
 | Field | Focus |
 |:--|:--|
-| **Offensive Security** | Attack techniques, tradecraft, and security research |
-| **Adversary Emulation** | TTPs, operational behaviors, and detection-aware testing |
-| **MalDev & RE** | Windows internals, payload development concepts, and reverse engineering |
-| **Identity Security** | Authentication, authorization, and identity attack paths |
-| **Agent Engineering** | Harness design, tool orchestration, and autonomous workflows |
+| **Offensive Security** | Offensive techniques, tooling, and security research |
+| **Adversary Emulation** | Adversary TTPs, attack-chain simulation, and controlled validation |
+| **Malware Development** | Malware techniques, Windows internals, and implant development |
+| **Agent Engineering** | Agent harnesses, tool orchestration, and autonomous workflows |
+| **AI for Security** | Applying LLMs and agents to security research and offensive workflows |
 
 ## Approach
 
 **Understand → Experiment → Validate → Build**
 
-- Start from first principles; question abstractions.
-- Study both the mechanism and its operational consequences.
-- Prefer controlled, authorized experiments and reproducible evidence.
-- Build tools and agents when they make research more effective.
+- Start from first principles; understand how techniques work.
+- Reproduce and evaluate adversary behaviors in authorized environments.
+- Prefer measurable experiments and reproducible evidence.
+- Build agents and tools that extend research capabilities.
 
 ---
 
