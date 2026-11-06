@@ -8,7 +8,7 @@
 
 ### INDEPENDENT OFFENSIVE SECURITY RESEARCHER
 
-*Understanding systems. Emulating adversaries. Engineering agents.*
+*Understanding systems. Emulating adversaries. Advancing security.*
 
 <br/>
 
@@ -28,9 +28,9 @@
 
 ## About
 
-I'm **KYLINSEC**, an independent security researcher exploring offensive techniques, adversary behavior, malware development, and intelligent systems for security research.
+I'm **KYLINSEC**, an independent security researcher exploring offensive techniques, adversary behavior, malware development, and the application of AI to security research.
 
-My work is driven by curiosity about how systems behave, how adversaries operate, and how engineering can turn security research into reproducible capabilities.
+I'm driven by curiosity about how systems work, how adversaries operate, and how emerging technologies can improve security research and validation.
 
 ## Research Domains
 
@@ -61,9 +61,9 @@ Malware techniques, Windows internals, and implant development.
 </td>
 <td width="50%" valign="top">
 
-### ⬡ Agent Engineering · AI for Security
+### ✳ AI for Security
 
-Agent harnesses, tool orchestration, and AI-assisted security workflows.
+Exploring AI applications in security research, offensive workflows, and security validation.
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Agent harnesses, tool orchestration, and AI-assisted security workflows.
 - **Understand** — investigate mechanisms rather than memorize techniques.
 - **Experiment** — reproduce behaviors in authorized, controlled environments.
 - **Validate** — measure outcomes and preserve reproducible evidence.
-- **Build** — turn useful findings into tools, systems, and agent capabilities.
+- **Build** — turn useful findings into practical tools and capabilities.
 
 ---
 
