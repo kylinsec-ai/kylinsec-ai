@@ -1,49 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-  <title id="title">KYLINSEC — Independent Security Research Workshop</title>
-  <desc id="desc">A warm pastel shopping street with a small research workshop, rooftops, clouds, and subtle technical motifs.</desc>
+  <title id="title">KYLINSEC — Independent Offensive Security Researcher</title>
+  <desc id="desc">An original, warm pastel Japanese shopping-street-inspired illustration with a small research shop, soft clouds, rooftops, and subtle technical motifs.</desc>
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dff2ed"/><stop offset="1" stop-color="#fff2df"/></linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6c9d91" stroke-opacity=".16" stroke-width="1"/></pattern>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dcefe9"/>
+      <stop offset="1" stop-color="#fff1df"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3dfc6"/>
+      <stop offset="1" stop-color="#e6cdb3"/>
+    </linearGradient>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".55" fill="#6d8b7e" opacity=".16"/>
+    </pattern>
   </defs>
+
   <rect width="1440" height="440" rx="24" fill="url(#sky)"/>
-  <rect width="1440" height="440" rx="24" fill="url(#grid)"/>
-  <circle cx="1190" cy="88" r="48" fill="#f8d99a" opacity=".85"/>
-  <g fill="#fff" opacity=".72"><path d="M150 95c8-24 42-28 57-8 18-18 50-7 52 18h-110c-17 0-18-10 1-10z"/><path d="M970 150c7-20 35-24 48-7 15-15 42-6 44 16h-96c-15 0-16-9 4-9z"/></g>
-  <path d="M0 315L160 245 300 300 455 220 620 300 780 235 940 300 1100 220 1260 295 1440 230V440H0Z" fill="#b7d4c8" opacity=".72"/>
-  <g stroke="#526e68" stroke-width="4" stroke-linejoin="round">
-    <path d="M65 300V205l115-66 115 66v95Z" fill="#f4d8c2"/>
-    <path d="M48 207l132-78 132 78" fill="none" stroke-width="9"/>
-    <path d="M98 225h54v75H98zM190 225h54v75h-54z" fill="#d5ece5"/>
-    <path d="M350 300V175l125-74 125 74v125Z" fill="#fff0d9"/>
-    <path d="M330 179l145-88 145 88" fill="none" stroke-width="10"/>
-    <path d="M390 215h65v85h-65zM485 215h65v85h-65z" fill="#d5e9e4"/>
-    <path d="M700 300V190l130-77 130 77v110Z" fill="#f6d7d4"/>
-    <path d="M680 194l150-91 150 91" fill="none" stroke-width="10"/>
-    <path d="M755 225h55v75h-55zM850 225h55v75h-55z" fill="#d9ece7"/>
-    <path d="M1055 300V205l112-67 112 67v95Z" fill="#f9e6bd"/>
-    <path d="M1035 208l132-80 132 80" fill="none" stroke-width="9"/>
-    <path d="M1090 225h50v75h-50zM1180 225h50v75h-50z" fill="#d5e9e4"/>
+  <rect width="1440" height="440" rx="24" fill="url(#grain)"/>
+  <circle cx="1210" cy="82" r="43" fill="#f5d49a" opacity=".9"/>
+  <g fill="#fff" opacity=".8">
+    <path d="M145 95c8-22 38-27 53-8 16-16 44-7 47 15H143c-15 0-16-7 2-7z"/>
+    <path d="M1000 130c7-18 32-22 44-6 14-14 37-5 39 14h-87c-13 0-14-8 4-8z"/>
   </g>
-  <path d="M0 305H1440V440H0Z" fill="#f7e5c9"/>
-  <path d="M0 365c240-24 420 15 650-4s510-22 790 0v79H0Z" fill="#e8d5b9"/>
-  <g transform="translate(570 250)">
-    <rect x="0" y="0" width="300" height="115" rx="8" fill="#fffaf0" stroke="#526e68" stroke-width="5"/>
-    <path d="M-12 8h324l-22-42H10Z" fill="#e89c91" stroke="#526e68" stroke-width="5"/>
-    <path d="M22 -30v38m52-38v38m52-38v38m52-38v38m52-38v38m52-38v38" stroke="#fff2df" stroke-width="16"/>
-    <rect x="25" y="38" width="105" height="77" fill="#d8eee6" stroke="#526e68" stroke-width="4"/>
-    <rect x="158" y="38" width="115" height="77" fill="#f5d9c8" stroke="#526e68" stroke-width="4"/>
-    <path d="M182 57h67M182 73h67" stroke="#8b9f91" stroke-width="4"/>
-    <text x="150" y="26" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="3" fill="#526e68">RESEARCH WORKSHOP</text>
+
+  <!-- distant neighborhood -->
+  <path d="M0 285 140 210 270 278 410 190 560 280 720 205 870 275 1030 198 1180 275 1320 210 1440 260V440H0Z" fill="#b9d5c7" opacity=".68"/>
+  <g stroke="#668277" stroke-width="3" stroke-linejoin="round">
+    <path d="M35 295V205l92-56 94 56v90Z" fill="#f2d7c2"/>
+    <path d="m20 208 107-68 109 68" fill="none" stroke-width="7"/>
+    <path d="M75 229h40v66H75zm82 0h40v66h-40z" fill="#d6ebe3"/>
+    <path d="M1170 295V190l108-66 108 66v105Z" fill="#f6e4bd"/>
+    <path d="m1152 193 126-78 126 78" fill="none" stroke-width="7"/>
+    <path d="M1205 224h42v71h-42zm78 0h42v71h-42z" fill="#d6ebe3"/>
   </g>
-  <g fill="none" stroke="#527e74" stroke-width="3" opacity=".7">
-    <path d="M1050 75h110v54h-110zM1065 92h80m-80 14h54"/>
-    <circle cx="1015" cy="102" r="17"/><path d="M1003 102h24m-12-12v24"/>
-    <path d="M300 70h90v55h-90zM315 87h60m-60 14h42"/>
+
+  <!-- street -->
+  <path d="M0 300H1440V440H0Z" fill="url(#road)"/>
+  <path d="M0 368c260-26 430 16 690-2s510-19 750 0v74H0Z" fill="#dfc5a9" opacity=".65"/>
+  <path d="M85 397h180m100 0h125m625 0h150" stroke="#fff4e5" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+
+  <!-- small research storefront -->
+  <g transform="translate(500 225)" stroke="#526f66" stroke-width="4" stroke-linejoin="round">
+    <path d="M0 35 220 0l220 35v145H0Z" fill="#fff9ed"/>
+    <path d="M-15 39 220-4 455 39l-15 26H0Z" fill="#e9a49a"/>
+    <path d="M35 32 65 27v36H35zm75-14 30-6v41h-30zm75-14 30-6v41h-30zm75 0 30 6v35h-30zm75 14 30 6v35h-30zm75 14 30 6v29h-30z" fill="#fff0df" stroke="none"/>
+    <path d="M35 83h135v97H35Z" fill="#d9eee6"/>
+    <path d="M195 83h185v97H195Z" fill="#f4d8ca"/>
+    <path d="M215 105h145m-145 19h110m-110 19h125" stroke="#9bafa2" stroke-width="3" fill="none"/>
+    <path d="M85 83v97m205-97v97" stroke="#668277" stroke-width="3" fill="none"/>
+    <text x="220" y="77" text-anchor="middle" font-family="Georgia,serif" font-size="13" letter-spacing="3" fill="#526f66" stroke="none">RESEARCH &amp; STUDY</text>
   </g>
-  <g font-family="Arial,Helvetica,sans-serif" fill="#344e49">
-    <text x="720" y="65" text-anchor="middle" font-size="18" letter-spacing="8">INDEPENDENT SECURITY RESEARCH</text>
-    <text x="720" y="130" text-anchor="middle" font-family="Georgia,serif" font-size="66" font-weight="700" letter-spacing="5">KYLINSEC</text>
-    <text x="720" y="169" text-anchor="middle" font-size="20" letter-spacing="3">きょうも、研究しています。</text>
-    <text x="720" y="412" text-anchor="middle" font-size="15" letter-spacing="5">OFFENSIVE SECURITY  ·  ADVERSARY EMULATION  ·  AGENT ENGINEERING</text>
+
+  <!-- subtle research motifs -->
+  <g fill="none" stroke="#66877b" stroke-width="2.5" opacity=".72">
+    <rect x="270" y="73" width="112" height="61" rx="7"/>
+    <path d="M285 91h80m-80 14h55m-55 14h68"/>
+    <circle cx="1080" cy="94" r="22"/>
+    <path d="M1067 94h26m-13-13v26M1115 64h84v52h-84zM1128 81h57m-57 14h38"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#344f48">
+    <text x="720" y="54" text-anchor="middle" font-size="16" letter-spacing="7">INDEPENDENT OFFENSIVE SECURITY RESEARCH</text>
+    <text x="720" y="126" text-anchor="middle" font-family="Georgia,serif" font-size="72" font-weight="700" letter-spacing="7">KYLINSEC</text>
+    <text x="720" y="163" text-anchor="middle" font-size="18" letter-spacing="3">Understanding systems. Studying adversaries. Building agents.</text>
+    <text x="720" y="418" text-anchor="middle" font-size="14" letter-spacing="4">OFFENSIVE SECURITY · ADVERSARY EMULATION · MALDEV · AGENT ENGINEERING</text>
   </g>
 </svg>
