@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="KYLINSEC — Independent Offensive Security Research" />
+<img src="https://tamakomarket.com/img/map/still/01.jpg" width="100%" alt="Tamako Market — Usagiyama Shopping District entrance" />
 
 <br/>
+
+# KYLINSEC
 
 **INDEPENDENT OFFENSIVE SECURITY RESEARCHER**
 
 *Understanding systems. Emulating adversaries. Engineering agents.*
 
-<br/>
-
 Offensive Security · Adversary Emulation · Malware Development · AI for Security
 
 <sub>研究 · 探索 · 构建</sub>
+
+<br/>
+
+<img src="https://tamakomarket.com/img/map/still/02.jpg" width="32%" alt="Tamako Market official artwork" />
+<img src="https://tamakomarket.com/img/map/still/04.jpg" width="32%" alt="Tamako Market official artwork" />
+<img src="https://tamakomarket.com/img/map/still/06.jpg" width="32%" alt="Tamako Market official artwork" />
 
 </div>
 
@@ -50,6 +56,8 @@ I'm interested in understanding offensive techniques, reproducing adversary beha
 *Still curious. Still researching.*
 
 **今日も、研究しています。**
+
+<sub>Artwork: official <a href="https://tamakomarket.com/map/">Tamako Market shopping street map</a> website. © Kyoto Animation / respective rights holders. Used as fan reference; all rights belong to their owners.</sub>
 
 <sub>KYLINSEC · Independent Security Research</sub>
 
