@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://www.kyotoanimation.co.jp/img/works/key_visual/tamako.jpg" width="320" alt="Tamako Market official key visual" />
+<p>
+  <img src="https://tamakomarket.com/img/map/still/01.jpg" width="32%" alt="Usagiyama Shopping District entrance" />
+  <img src="https://tamakomarket.com/img/map/still/02.jpg" width="32%" alt="Just Meat shop in the shopping district" />
+  <img src="https://tamakomarket.com/img/map/still/04.jpg" width="32%" alt="Rice Cake Oh! Zee shop" />
+</p>
 
 # KYLINSEC
 
@@ -44,6 +48,15 @@ Things that keep us curious.
 - **Reverse Engineering** — binary analysis, protocol research, and implementation behavior
 - **Agent Engineering** — harness architecture, autonomous exploration, and evaluation
 
+## 🍡 A Walk Around the District
+
+<div align="center">
+  <img src="https://tamakomarket.com/img/map/still/06.jpg" width="48%" alt="Star and Pierrot record shop" />
+  <img src="https://tamakomarket.com/img/map/still/05b.jpg" width="48%" alt="Dera in the shopping district story" />
+</div>
+
+<sub>Scenes from the official <a href="https://tamakomarket.com/map/">Usagiyama Shopping District map</a>.</sub>
+
 ## 🛠 Workshop
 
 We believe in learning by building, and in validating ideas against evidence.
@@ -60,6 +73,6 @@ The goal is simple: turn technical curiosity into reproducible experiments and u
 
 **Thanks for stopping by.**
 
-<sub>Visual reference: <a href="https://www.kyotoanimation.co.jp/works/tamako/">Tamako Market — Kyoto Animation</a>. Artwork © Kyoto Animation / Usagiyama Shopping District. All rights belong to their respective owners.</sub>
+<sub>Visuals from <a href="https://tamakomarket.com/">Tamako Market official website</a>, © Kyoto Animation / Usagiyama Shopping District. Used as fan reference; all rights belong to their respective owners.</sub>
 
 </div>
