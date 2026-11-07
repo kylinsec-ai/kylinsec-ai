@@ -1,91 +1,88 @@
 <div align="center">
 
-# KYLINSEC
+<img src="https://tamakomarket.com/img/map/still/04.jpg" width="100%" alt="Usagiyama Shopping Street — Tamako Market" />
 
-**OFFENSIVE SECURITY RESEARCHER**
+# kylinsec
+
+**Offensive Security Researcher**
+
+Adversary Emulation · Malware Development · AI for Security
+
+<img src="https://img.shields.io/badge/RESEARCH-8A4058?style=flat-square" />
+<img src="https://img.shields.io/badge/ADVERSARY_EMULATION-444444?style=flat-square" />
+<img src="https://img.shields.io/badge/MALWARE_DEVELOPMENT-444444?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_FOR_SECURITY-444444?style=flat-square" />
 
 *Understanding systems. Emulating adversaries. Advancing security.*
 
-<br/>
-
-<img src="https://img.shields.io/badge/OFFENSIVE%20SECURITY-A34A63?style=flat-square" height="24" alt="Focus: offensive security" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ADVERSARY%20EMULATION-8A5A3B?style=flat-square" height="24" alt="Focus: adversary emulation" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MALWARE%20DEVELOPMENT-6E4A5E?style=flat-square" height="24" alt="Focus: malware development" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/AI%20FOR%20SECURITY-4E7359?style=flat-square" height="24" alt="Focus: AI for security" />
-
 </div>
+
+---
 
 ## About
 
-I'm **KYLINSEC** — an offensive security researcher working across adversary behavior, malware development, and the application of AI to security research.
+<img align="right" src="https://tamakomarket.com/img/map/still/03a.jpg" width="34%" alt="Dera among the potted plants on Usagiyama Shopping Street" />
 
-The work is driven by curiosity: how systems are built, how adversaries operate, and how new technology can make research and validation measurably better.
+I'm **kylinsec** — an offensive security researcher interested in adversary behavior, malware development, and applying AI to security research.
 
-**All research is conducted in authorized, controlled environments.** Findings are measured, documented, and kept reproducible.
+I explore how systems work, how adversaries operate, and how research can become practical, measurable capabilities.
 
-## Research Domains
+<br clear="right"/>
 
-### 01 · Offensive Security
+## Research
 
-Offensive techniques, tooling, tradecraft, and security research.
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-### 02 · Adversary Emulation
+### 01 / Adversary Emulation
 
-Adversary TTPs, attack-chain simulation, and controlled validation.
+Adversary TTPs, attack-chain simulation, tradecraft analysis, and controlled security validation.
 
-### 03 · Malware Development
+### 02 / Malware Development
 
-Malware techniques, Windows internals, and implant development.
+Windows internals, malware techniques, and implant development.
 
-### 04 · AI for Security
+### 03 / AI for Security
 
-AI applications in security research, offensive workflows, and validation.
+AI-assisted security research, offensive workflows, and security validation.
 
-## Philosophy
+</td>
+<td width="42%" valign="middle" align="center">
+<img src="https://tamakomarket.com/img/map/still/02.jpg" width="100%" alt="Just Meat shopfront on Usagiyama Shopping Street" />
+<sub>A familiar place to pause and observe.</sub>
+</td>
+</tr>
+</table>
+
+## Approach
 
 <div align="center">
 
-### UNDERSTAND → EXPERIMENT → VALIDATE → BUILD
+### UNDERSTAND → EMULATE → VALIDATE → BUILD
 
 </div>
 
-- **Understand** — investigate mechanisms, not memorized techniques.
-- **Experiment** — reproduce behavior in authorized, controlled environments.
-- **Validate** — measure outcomes and keep reproducible evidence.
-- **Build** — turn useful findings into practical tools and capabilities.
+| Principle | Practice |
+|:--|:--|
+| **Understand** | Investigate mechanisms, not just techniques. |
+| **Emulate** | Reproduce adversary behavior in controlled environments. |
+| **Validate** | Measure outcomes and preserve reproducible evidence. |
+| **Build** | Turn useful findings into practical capabilities. |
 
-## Scene Studies
+<div align="center">
+<img src="https://tamakomarket.com/img/map/still/05a.jpg" width="76%" alt="Usagiyama Shopping Street at night" />
+<br/>
+<sub>Different perspectives. Same curiosity.</sub>
+</div>
+
+---
 
 <div align="center">
 
-*Stills from Usagiyama Shopping Street, kept as a reminder of the tone behind the work — curious, warm, unhurried.*
-
-<br/>
-
-<img src="https://tamakomarket.com/img/map/still/02.jpg" width="48.8%" alt="Tamako Market — Just Meat shop on the Usagiyama shopping street" /> <img src="https://tamakomarket.com/img/map/still/04.jpg" width="48.8%" alt="Tamako Market — Ricecake Oh! shop on the Usagiyama shopping street" />
-
-<br/>
-
-<sub>Just Meat and Ricecake Oh! — two shopfronts on the shopping street.</sub>
-
-<br/><br/>
-
-<img src="https://tamakomarket.com/img/map/still/03a.jpg" width="51.4%" alt="Tamako Market — Dera among potted plants at the florist" /> <img src="https://tamakomarket.com/img/map/still/05a.jpg" width="44.8%" alt="Tamako Market — Dera walking down the shopping street at night" />
-
-<br/>
-
-<sub>Dera, by day and by night.</sub>
-
-<br/><br/>
+<img src="https://tamakomarket.com/img/logo.png" width="120" alt="Tamako Market logo" />
 
 *Still curious. Still researching.*
-
-<br/>
-
-<img src="https://tamakomarket.com/img/logo.png" width="190" alt="Tamako Market official logo" />
-
-<br/>
-
-<sub>Artwork: <a href="https://tamakomarket.com/">Tamako Market</a> official site · © Kyoto Animation / respective rights holders.</sub>
-
-<br/>
 
 <sub>KYLINSEC · OFFENSIVE SECURITY RESEARCH</sub>
 
