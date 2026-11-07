@@ -55,27 +55,6 @@ AI-assisted security research, offensive workflows, and security validation.
 </tr>
 </table>
 
-## Approach
-
-<div align="center">
-
-### UNDERSTAND → EMULATE → VALIDATE → BUILD
-
-</div>
-
-| Principle | Practice |
-|:--|:--|
-| **Understand** | Investigate mechanisms, not just techniques. |
-| **Emulate** | Reproduce adversary behavior in controlled environments. |
-| **Validate** | Measure outcomes and preserve reproducible evidence. |
-| **Build** | Turn useful findings into practical capabilities. |
-
-<div align="center">
-<img src="https://tamakomarket.com/img/map/still/05a.jpg" width="76%" alt="Usagiyama Shopping Street at night" />
-<br/>
-<sub>Different perspectives. Same curiosity.</sub>
-</div>
-
 ---
 
 <div align="center">
