@@ -4,46 +4,43 @@
 
 Adversary Emulation · Malware Development · AI for Security
 
-<p align="center">
-  <img src="https://tamakomarket.com/img/character/tamako/01.png" width="150" alt="Tamako Kitashirakawa — official character art" />
-</p>
+![Tamako Kitashirakawa — official character artwork](https://tamakomarket.com/img/character/tamako/01.png)
 
-<p align="center">
-  *Somewhere between curiosity and research.*
-  <br />
-  うさぎ山商店街から、こんにちは。
-</p>
+*Curiosity makes every day a research day.*
+
+[Website](https://tamakomarket.com/) · [GitHub](https://github.com/kylinsec-ai)
 
 ---
 
-## About Me
+## About
 
 Hello, I'm **kylinsec**.
 
-An independent security researcher exploring offensive security, adversary tradecraft, malware development, and AI for Security.
+An offensive security researcher interested in understanding adversary tradecraft, developing malware in controlled environments, and applying AI to security research.
 
-Always curious about how things work, how systems break, and what we can learn from them.
+I enjoy exploring how systems behave, how they can be challenged, and how research can become practical security capabilities.
 
-<p align="center">
-  <img src="https://tamakomarket.com/img/character/tamako/02.png" width="110" alt="Tamako Kitashirakawa — official character art" />
-</p>
+![Tamako Kitashirakawa — official character artwork](https://tamakomarket.com/img/character/tamako/02.png)
 
 ## Research Interests
 
 | Field | Focus |
 |---|---|
-| **Adversary Emulation** | TTPs · Attack Simulation · Red Team |
-| **Malware Development** | Windows Internals · Implants · Tradecraft |
-| **AI for Security** | AI-assisted Research · Security Automation |
+| **Adversary Emulation** | Adversary TTPs · Attack Simulation · Red Team |
+| **Malware Development** | Windows Internals · Implant Development · Tradecraft |
+| **AI for Security** | AI-assisted Research · Security Automation · Agentic Workflows |
 
 ---
 
-<p align="center">
-  <img src="https://tamakomarket.com/img/character/tamako/01.png" width="88" alt="Tamako Kitashirakawa — official character art" />
-  <br />
-  *Keep exploring, keep creating, and enjoy the little things.*
-  <br />
-  **きょうも、研究日和。**
-</p>
+## Elsewhere
 
-<sub>Visuals: official <a href="https://tamakomarket.com/">Tamako Market</a> character artwork. © Kyoto Animation / Usagiyama Shopping District.</sub>
+- GitHub: [@kylinsec-ai](https://github.com/kylinsec-ai)
+- X: [@kylinsec](https://x.com/kylinsec)
+
+---
+
+*Keep exploring. Keep researching. Enjoy the little things.*
+
+**きょうも、研究日和。**
+
+<sub>Character artwork from the official <a href="https://tamakomarket.com/">Tamako Market</a> website. © Kyoto Animation / Usagiyama Shopping District.</sub>
