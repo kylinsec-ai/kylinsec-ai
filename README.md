@@ -4,32 +4,28 @@
 
 Adversary Emulation · Malware Development · AI for Security
 
-*Understanding systems. Emulating adversaries. Advancing security.*
+*Somewhere between curiosity and research.*
 
 ---
 
-## About
+### About Me
 
-I'm **kylinsec** — an offensive security researcher interested in adversary behavior, malware development, and applying AI to security research.
+Hello, I'm **kylinsec**.
 
-I explore how systems work, how adversaries operate, and how research can become practical, measurable capabilities.
+An independent security researcher exploring offensive security, adversary tradecraft, malware development, and AI for Security.
 
-## Research
+Always curious about how things work, how systems break, and what we can learn from them.
 
-### Adversary Emulation
+### Research Interests
 
-Adversary TTPs, attack-chain simulation, tradecraft analysis, and controlled security validation.
-
-### Malware Development
-
-Windows internals, malware techniques, and implant development.
-
-### AI for Security
-
-AI-assisted security research, offensive workflows, and security validation.
+| Field | Focus |
+|---|---|
+| Adversary Emulation | TTPs · Attack Simulation · Red Team |
+| Malware Development | Windows Internals · Implants · Tradecraft |
+| AI for Security | AI-assisted Research · Security Automation |
 
 ---
 
-*Still curious. Still researching.*
+*Keep exploring, keep creating, and enjoy the little things.*
 
-**KYLINSEC · OFFENSIVE SECURITY RESEARCH**
+**きょうも、研究日和。**
