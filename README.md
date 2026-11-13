@@ -1,6 +1,6 @@
-<!-- Hero artwork: Tamako Market 10th Anniversary visual -->
+<!-- Hero artwork: horizontal Tamako Market scene -->
 <p align="center">
-  <img src="https://www.animeunited.com.br/oomtumtu/2023/01/Tamako-Market-min-scaled-1-1450x2048.jpg" width="100%" alt="Tamako Market 10th Anniversary key visual"/>
+  <img src="https://media1.jpc.de/image/w2400/misc/5/4006448368203.jpg" width="100%" alt="Tamako Market — friends walking through a Kyoto street"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
@@ -74,5 +74,5 @@ A selection of tools, experiments, and research-oriented engineering:
 </p>
 
 <p align="center">
-  <sub>Visuals from Tamako Market, © Kyoto Animation / Usagiyama Shopping District. Artwork hosted by third-party image sites; used here as external image references.</sub>
+  <sub>Visual references: <a href="https://www.jpc.de/jpcng/movie/detail/-/art/tamako-market/hnum/12427728">Tamako Market Blu-ray product artwork</a> and <a href="https://www.zerochan.net/1479428">Tamako Market group illustration</a>. © Kyoto Animation / respective rights holders. Images are externally hosted; rights remain with their respective owners.</sub>
 </p>
