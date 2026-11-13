@@ -1,78 +1,48 @@
-<!-- Hero artwork: Tamako Market 10th Anniversary group visual by Yukiko Horiguchi -->
+<!-- Hero artwork: Tamako Market 10th Anniversary group visual -->
 <p align="center">
-  <img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/tamakomarket_10thanniversaryvisual-1-e1683520651370.jpg" width="78%" alt="Tamako Market 10th Anniversary official group visual"/>
+  <img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/tamakomarket_10thanniversaryvisual-1-e1683520651370.jpg" width="62%" alt="Tamako Market 10th Anniversary group visual"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
 
 <p align="center">
   <strong>Offensive Security Researcher</strong><br/>
-  Adversary Emulation · Malware Development · AI for Security
-</p>
-
-<p align="center">
-  <em>Understand the system. Explore the boundary. Build something meaningful.</em>
+  Adversary Emulation · Malware Development · Reverse Engineering · AI for Security
 </p>
 
 <p align="center">
   <a href="https://github.com/kylinsec-ai">GitHub</a> ·
-  <a href="https://x.com/kylinsec">X</a> ·
-  <a href="https://tamakomarket.com/">Tamako Market</a>
+  <a href="https://x.com/kylinsec">X</a>
 </p>
 
 ---
 
 ## About
 
-I'm **kylinsec**, an offensive security researcher interested in understanding systems from the adversary's perspective.
-
-My work and interests revolve around:
-
-- **Adversary Emulation** — adversary TTPs, attack simulation, and red team operations.
-- **Malware Development** — Windows internals, implant architecture, and low-level tradecraft.
-- **AI for Security** — agentic workflows, AI-assisted vulnerability research, and security automation.
-
-I enjoy exploring how things work beneath the surface, turning technical curiosity into practical research and engineering.
-
-<p align="center">
-  <img src="https://image.gameapps.hk/images/202301/09/6422013006027_200570319.jpg" width="88%" alt="Tamako Market characters and residents gathered in Usagiyama Shopping Street"/>
-</p>
-
----
+Independent security researcher focused on offensive techniques, reverse engineering, and security engineering.
 
 ## Research
 
-| Area | Topics |
-|:---|:---|
-| **Offensive Security** | Red Team · Adversary TTPs · Attack Simulation |
-| **Malware Research** | Windows Internals · MalDev · Evasion Mechanisms |
-| **AI Security** | AI Agents · Security Harness · Automated Research |
-| **Engineering** | Go · Rust · Python · Linux · Windows |
+- **Offensive Security** — Adversary Emulation, TTPs
+- **Malware Research** — Windows Internals, MalDev
+- **AI for Security** — Agentic Workflows, Automated Research
 
 ## Selected Projects
 
-A selection of tools, experiments, and research-oriented engineering:
+- [**vshell**](https://github.com/kylinsec-ai/vshell) — Go · Security Tooling
+- [**beacon-rust**](https://github.com/kylinsec-ai/beacon-rust) — Rust · Beacon Architecture
 
-- **[vshell](https://github.com/kylinsec-ai/vshell)** — Go-based security tooling.
-- **[beacon-rust](https://github.com/kylinsec-ai/beacon-rust)** — Rust implementation research related to Beacon architecture.
+## Elsewhere
 
-## Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-</p>
+[GitHub](https://github.com/kylinsec-ai) · [X](https://x.com/kylinsec)
 
 ---
 
 <p align="center">
-  <em>Independent research. Controlled environments. Continuous curiosity.</em><br/>
+  <em>Independent research. Reproducible findings. Engineering over speculation.</em><br/>
   きょうも、研究日和。
 </p>
 
 <p align="center">
-  <sub>10th Anniversary visual: artwork by Yukiko Horiguchi, © Kyoto Animation / Usagiyama Shopping District. Additional group scene: Tamako Market promotional artwork. Images are externally hosted; rights remain with their respective owners.</sub>
+  <sub>Visual: Tamako Market 10th Anniversary artwork by Yukiko Horiguchi. © Kyoto Animation / respective rights holders.</sub>
 </p>
