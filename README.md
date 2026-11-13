@@ -1,54 +1,79 @@
 ![Tamako Market official logo](https://tamakomarket.com/img/topLogo.png)
 
-# kylinsec
+<h1 align="center">kylinsec</h1>
 
-**Offensive Security Researcher**
+<p align="center">
+  <strong>Offensive Security Researcher</strong><br/>
+  Adversary Emulation · Malware Development · AI for Security
+</p>
 
-Adversary Emulation · Malware Development · AI for Security
+<p align="center">
+  <em>Understand the system. Explore the boundary. Build something meaningful.</em>
+</p>
 
-*Curiosity makes every day a research day.*
-
-[GitHub](https://github.com/kylinsec-ai) · [X](https://x.com/kylinsec) · [Tamako Market](https://tamakomarket.com/)
+<p align="center">
+  <a href="https://github.com/kylinsec-ai">GitHub</a> ·
+  <a href="https://x.com/kylinsec">X</a> ·
+  <a href="https://tamakomarket.com/">Tamako Market</a>
+</p>
 
 ---
 
 ## About
 
-![Tamako Kitashirakawa — official character artwork](https://tamakomarket.com/img/character/tamako/01.png)
+I'm **kylinsec**, an offensive security researcher interested in understanding systems from the adversary's perspective.
 
-Hello, I'm **kylinsec** — an offensive security researcher interested in adversary tradecraft, malware development, and AI for Security.
+My work and interests revolve around:
 
-I explore how systems work, how adversaries operate, and how research can become practical security capabilities.
+- **Adversary Emulation** — adversary TTPs, attack simulation, and red team operations.
+- **Malware Development** — Windows internals, implant architecture, and low-level tradecraft.
+- **AI for Security** — agentic workflows, AI-assisted vulnerability research, and security automation.
 
-*Independent research. Controlled environments. Continuous curiosity.*
+I enjoy exploring how things work beneath the surface, turning technical curiosity into practical research and engineering.
 
----
-
-## Research Interests
-
-| | Research Area | Focus |
-|:--:|---|---|
-| 🎯 | **Adversary Emulation** | Adversary TTPs · Attack Simulation · Red Team |
-| 🧩 | **Malware Development** | Windows Internals · Implant Development · Tradecraft |
-| ✳️ | **AI for Security** | AI-assisted Research · Security Automation · Agentic Workflows |
-
-![Tamako Kitashirakawa — official character artwork](https://tamakomarket.com/img/character/tamako/02.png)
+<p align="center">
+  <img src="https://tamakomarket.com/img/character/tamako/01.png" width="220" alt="Tamako Kitashirakawa — official character artwork"/>
+</p>
 
 ---
 
-## Around the Web
+## Research
 
-- **GitHub** — [@kylinsec-ai](https://github.com/kylinsec-ai)
-- **X** — [@kylinsec](https://x.com/kylinsec)
+| Area | Topics |
+|:---|:---|
+| **Offensive Security** | Red Team · Adversary TTPs · Attack Simulation |
+| **Malware Research** | Windows Internals · MalDev · Evasion Mechanisms |
+| **AI Security** | AI Agents · Security Harness · Automated Research |
+| **Engineering** | Go · Rust · Python · Linux · Windows |
+
+## Selected Projects
+
+A selection of tools, experiments, and research-oriented engineering:
+
+- **[vshell](https://github.com/kylinsec-ai/vshell)** — Go-based security tooling.
+- **[beacon-rust](https://github.com/kylinsec-ai/beacon-rust)** — Rust implementation research related to Beacon architecture.
+
+## Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+</p>
 
 ---
 
-*Keep exploring. Keep researching. Enjoy the little things.*
+<p align="center">
+  <img src="https://tamakomarket.com/img/character/tamako/02.png" width="180" alt="Tamako Kitashirakawa — official character artwork"/>
+</p>
 
-**きょうも、研究日和。**
+<p align="center">
+  <em>Independent research. Controlled environments. Continuous curiosity.</em><br/>
+  きょうも、研究日和。
+</p>
 
-[Visit Usagiyama Shopping Street](https://tamakomarket.com/map/)
-
----
-
-*Character artwork and logo from the official [Tamako Market website](https://tamakomarket.com/). © Kyoto Animation / Usagiyama Shopping District.*
+<p align="center">
+  <sub>Character artwork and logo from the official <a href="https://tamakomarket.com/">Tamako Market website</a>. © Kyoto Animation / Usagiyama Shopping District.</sub>
+</p>
