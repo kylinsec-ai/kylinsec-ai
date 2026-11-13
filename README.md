@@ -1,6 +1,6 @@
-<!-- Hero artwork: horizontal Tamako Market scene -->
+<!-- Hero artwork: Tamako Market 10th Anniversary group visual by Yukiko Horiguchi -->
 <p align="center">
-  <img src="https://media1.jpc.de/image/w2400/misc/5/4006448368203.jpg" width="100%" alt="Tamako Market — friends walking through a Kyoto street"/>
+  <img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/tamakomarket_10thanniversaryvisual-1-e1683520651370.jpg" width="78%" alt="Tamako Market 10th Anniversary official group visual"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
@@ -35,7 +35,7 @@ My work and interests revolve around:
 I enjoy exploring how things work beneath the surface, turning technical curiosity into practical research and engineering.
 
 <p align="center">
-  <img src="https://static.zerochan.net/Tamako.Market.1024.1479428.webp" width="72%" alt="Tamako Market characters gathered in Usagiyama Shopping Street"/>
+  <img src="https://image.gameapps.hk/images/202301/09/6422013006027_200570319.jpg" width="88%" alt="Tamako Market characters and residents gathered in Usagiyama Shopping Street"/>
 </p>
 
 ---
@@ -74,5 +74,5 @@ A selection of tools, experiments, and research-oriented engineering:
 </p>
 
 <p align="center">
-  <sub>Visual references: <a href="https://www.jpc.de/jpcng/movie/detail/-/art/tamako-market/hnum/12427728">Tamako Market Blu-ray product artwork</a> and <a href="https://www.zerochan.net/1479428">Tamako Market group illustration</a>. © Kyoto Animation / respective rights holders. Images are externally hosted; rights remain with their respective owners.</sub>
+  <sub>10th Anniversary visual: artwork by Yukiko Horiguchi, © Kyoto Animation / Usagiyama Shopping District. Additional group scene: Tamako Market promotional artwork. Images are externally hosted; rights remain with their respective owners.</sub>
 </p>
