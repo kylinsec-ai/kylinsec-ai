@@ -27,10 +27,6 @@ Independent security researcher focused on offensive techniques, reverse enginee
 - **Malware Research** — Windows Internals, MalDev
 - **AI for Security** — Agentic Workflows, Automated Research
 
-## Selected Projects
-
-- [**vshell**](https://github.com/kylinsec-ai/vshell) — Go · Security Tooling
-- [**beacon-rust**](https://github.com/kylinsec-ai/beacon-rust) — Rust · Beacon Architecture
 
 ## Elsewhere
 
