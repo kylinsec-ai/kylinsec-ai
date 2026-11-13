@@ -1,4 +1,7 @@
-![Tamako Market official logo](https://tamakomarket.com/img/topLogo.png)
+<!-- Hero artwork: Tamako Market 10th Anniversary visual -->
+<p align="center">
+  <img src="https://www.animeunited.com.br/oomtumtu/2023/01/Tamako-Market-min-scaled-1-1450x2048.jpg" width="100%" alt="Tamako Market 10th Anniversary key visual"/>
+</p>
 
 <h1 align="center">kylinsec</h1>
 
@@ -32,7 +35,7 @@ My work and interests revolve around:
 I enjoy exploring how things work beneath the surface, turning technical curiosity into practical research and engineering.
 
 <p align="center">
-  <img src="https://tamakomarket.com/img/character/tamako/01.png" width="220" alt="Tamako Kitashirakawa — official character artwork"/>
+  <img src="https://static.zerochan.net/Tamako.Market.1024.1479428.webp" width="72%" alt="Tamako Market characters gathered in Usagiyama Shopping Street"/>
 </p>
 
 ---
@@ -66,14 +69,10 @@ A selection of tools, experiments, and research-oriented engineering:
 ---
 
 <p align="center">
-  <img src="https://tamakomarket.com/img/character/tamako/02.png" width="180" alt="Tamako Kitashirakawa — official character artwork"/>
-</p>
-
-<p align="center">
   <em>Independent research. Controlled environments. Continuous curiosity.</em><br/>
   きょうも、研究日和。
 </p>
 
 <p align="center">
-  <sub>Character artwork and logo from the official <a href="https://tamakomarket.com/">Tamako Market website</a>. © Kyoto Animation / Usagiyama Shopping District.</sub>
+  <sub>Visuals from Tamako Market, © Kyoto Animation / Usagiyama Shopping District. Artwork hosted by third-party image sites; used here as external image references.</sub>
 </p>
