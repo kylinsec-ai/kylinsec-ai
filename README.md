@@ -1,6 +1,6 @@
-<!-- Hero artwork: Tamako Market 10th Anniversary group visual -->
+<!-- Hero artwork: Tamako Kitashirakawa and Dera Mochimazzi -->
 <p align="center">
-  <img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/tamakomarket_10thanniversaryvisual-1-e1683520651370.jpg" width="62%" alt="Tamako Market 10th Anniversary group visual"/>
+  <img src="https://images.alphacoders.com/716/thumb-1920-716799.jpg" width="100%" alt="Tamako Kitashirakawa with Dera Mochimazzi from Tamako Market"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <sub>Visual: Tamako Market 10th Anniversary artwork by Yukiko Horiguchi. © Kyoto Animation / respective rights holders.</sub>
+  <sub>Visual: Tamako Kitashirakawa and Dera Mochimazzi from Tamako Market. © Kyoto Animation / respective rights holders.</sub>
 </p>
