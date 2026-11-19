@@ -15,9 +15,9 @@
 
 ---
 
-## About
+## Slogan
 
-Hands-on offensive security experience, with current work focused on malware development, reverse engineering, and AI-assisted security tooling.
+**Offense for Defense.**
 
 ## Research
 
