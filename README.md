@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kylinsec-ai">GitHub</a> ·
   <a href="https://x.com/kylinsec_">X</a>
 </p>
 
@@ -26,11 +25,6 @@ Independent security researcher focused on offensive techniques, reverse enginee
 - **Offensive Security** — Adversary Emulation, TTPs
 - **Malware Research** — Windows Internals, MalDev
 - **AI for Security** — Agentic Workflows, Automated Research
-
-
-## Elsewhere
-
-[GitHub](https://github.com/kylinsec-ai) · [X](https://x.com/kylinsec_)
 
 ---
 
