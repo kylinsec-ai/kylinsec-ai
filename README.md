@@ -1,6 +1,6 @@
-<!-- Hero artwork: Tamako Kitashirakawa with a dandelion -->
+<!-- Hero artwork: Tamako Market original wallpaper -->
 <p align="center">
-  <img src="https://images5.alphacoders.com/711/thumb-1920-711504.jpg" width="100%" alt="Tamako Kitashirakawa holding a dandelion from Tamako Market"/>
+  <img src="https://wallpaperaccess.com/full/5201122.jpg" width="100%" alt="Tamako Market artwork"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <sub>Visual: Tamako Kitashirakawa from Tamako Market. © Kyoto Animation / respective rights holders.</sub>
+  <sub>Visual: Tamako Market artwork. © Kyoto Animation / respective rights holders.</sub>
 </p>
