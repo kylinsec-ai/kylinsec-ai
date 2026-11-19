@@ -6,8 +6,7 @@
 <h1 align="center">kylinsec</h1>
 
 <p align="center">
-  <strong>Offensive Security Researcher</strong><br/>
-  Adversary Emulation · Malware Development · Reverse Engineering · AI for Security
+  <strong>Offensive Security Researcher</strong>
 </p>
 
 <p align="center">
