@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/kylinsec-ai">GitHub</a> ·
-  <a href="https://x.com/kylinsec">X</a>
+  <a href="https://x.com/kylinsec_">X</a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ Independent security researcher focused on offensive techniques, reverse enginee
 
 ## Elsewhere
 
-[GitHub](https://github.com/kylinsec-ai) · [X](https://x.com/kylinsec)
+[GitHub](https://github.com/kylinsec-ai) · [X](https://x.com/kylinsec_)
 
 ---
 
