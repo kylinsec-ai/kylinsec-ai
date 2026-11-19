@@ -28,8 +28,8 @@
 ---
 
 <p align="center">
-  <em>Independent research. Reproducible findings. Engineering over speculation.</em><br/>
-  きょうも、研究日和。
+  <strong>In the Future.</strong><br/>
+  <sub>未来へ。</sub>
 </p>
 
 <p align="center">
