@@ -1,6 +1,6 @@
-<!-- Hero artwork: Tamako Kitashirakawa and Dera Mochimazzi -->
+<!-- Hero artwork: Tamako Kitashirakawa with a dandelion -->
 <p align="center">
-  <img src="https://images.alphacoders.com/716/thumb-1920-716799.jpg" width="100%" alt="Tamako Kitashirakawa with Dera Mochimazzi from Tamako Market"/>
+  <img src="https://images5.alphacoders.com/711/thumb-1920-711504.jpg" width="100%" alt="Tamako Kitashirakawa holding a dandelion from Tamako Market"/>
 </p>
 
 <h1 align="center">kylinsec</h1>
@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <sub>Visual: Tamako Kitashirakawa and Dera Mochimazzi from Tamako Market. © Kyoto Animation / respective rights holders.</sub>
+  <sub>Visual: Tamako Kitashirakawa from Tamako Market. © Kyoto Animation / respective rights holders.</sub>
 </p>
