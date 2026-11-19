@@ -17,7 +17,7 @@
 
 ## About
 
-Independent security researcher focused on offensive techniques, reverse engineering, and security engineering.
+Hands-on offensive security experience, with current work focused on malware development, reverse engineering, and AI-assisted security tooling.
 
 ## Research
 
