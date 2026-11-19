@@ -23,7 +23,7 @@ Independent security researcher focused on offensive techniques, reverse enginee
 ## Research
 
 - **Offensive Security** — Adversary Emulation, TTPs
-- **Malware Research** — Windows Internals, MalDev
+- **Malware Development** — Windows Internals, MalDev
 - **AI for Security** — Agentic Workflows, Automated Research
 
 ---
