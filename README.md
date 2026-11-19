@@ -28,10 +28,5 @@
 ---
 
 <p align="center">
-  <strong>In the Future.</strong><br/>
-  <sub>未来へ。</sub>
-</p>
-
-<p align="center">
-  <sub>Visual: Tamako Market artwork. © Kyoto Animation / respective rights holders.</sub>
+  <strong>In the Future.</strong>
 </p>
