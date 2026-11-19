@@ -30,3 +30,7 @@
 <p align="center">
   <strong>In the Future.</strong>
 </p>
+
+<p align="center">
+  <sub>Visual: Tamako Market artwork. © Kyoto Animation.</sub>
+</p>
